@@ -1,0 +1,1651 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#"
+     xml:base="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:untitled-ontology-28="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#termo_preferencial -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#termo_preferencial"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#variante_denominativa -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#variante_denominativa"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#armazena -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#armazena"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#atua -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#atua"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#composta_por -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#composta_por"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#conduzem -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#conduzem"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#envia -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#envia"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#enviado_para -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#enviado_para"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#medido_por -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#medido_por"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#ocorre -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#ocorre"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#possui -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#possui"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produz -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produz"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produzido_por -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produzido_por"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#ramificam-se_em -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#ramificam-se_em"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#realiza -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#realiza"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#recebe -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#recebe"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#sai -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#sai"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Alvéolo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Alvéolo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#ocorre"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Trocas_gasosas"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Artérias -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Artérias">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vasos_sanguíneos"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#conduzem"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue_arterial"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#ramificam-se_em"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Capilares"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Batimentos_cardíacos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Batimentos_cardíacos">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#medido_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Frequência_cardíaca"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Bexiga_urinária -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Bexiga_urinária">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#armazena"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Urina"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_urinário"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Bile -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Bile">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Líquido"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#atua"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Intestino_delgado"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produzido_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Fígado"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Boca -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Boca">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#possui"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Saliva"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Brônquios -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Brônquios">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Canal_deferente -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Canal_deferente">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <termo_preferencial>
+            <rdf:Description>
+                <variante_denominativa>ducto deferente</variante_denominativa>
+            </rdf:Description>
+        </termo_preferencial>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Capilares -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Capilares">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vasos_sanguíneos"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Cartilagem -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Cartilagem"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Cavidade_nasal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Cavidade_nasal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Circulação_sanguínea -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Circulação_sanguínea">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Conjunto_anatômico -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Conjunto_anatômico"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Coração -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Coração">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#realiza"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Batimentos_cardíacos"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#recebe"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Célula -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Célula"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Célula_sexual -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Célula_sexual">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Célula"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <termo_preferencial>
+            <rdf:Description>
+                <variante_denominativa>célula reprodutiva</variante_denominativa>
+                <variante_denominativa>gameta</variante_denominativa>
+            </rdf:Description>
+        </termo_preferencial>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Diafragma -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Diafragma">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Músculo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Expiração"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Inspiração"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Digestão -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Digestão">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Epidídimo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Epidídimo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Epiglote -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Epiglote">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Cartilagem"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Esperma -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Esperma">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Líquido"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Espermatozóide"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Espermatozóide -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Espermatozóide">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Célula_sexual"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Estômago -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Estômago">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produz"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Suco_gástrico"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Esôfago -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Esôfago">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Expiração -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Expiração">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Faringe -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Faringe">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Frequência_cardíaca -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Frequência_cardíaca">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Parâmetro_fisiológico"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Fígado -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Fígado">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produz"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Bile"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula_salivar -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula_salivar">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produz"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Saliva"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Grande_circulação -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Grande_circulação">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Circulação_sanguínea"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#composta_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Coração"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#composta_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue_arterial"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Hemácia -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Hemácia">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Célula"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Inspiração -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Inspiração">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Intestino_delgado -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Intestino_delgado">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Intestino_grosso -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Intestino_grosso">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Laringe -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Laringe">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#possui"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Epiglote"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Leucócito -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Leucócito">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Célula"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Líquido -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Líquido"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Micção -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Micção">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_urinário"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Músculo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Músculo"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Nariz -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Nariz">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Orifício -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Orifício"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Ovulação -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Ovulação">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_feminino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Ovário -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Ovário">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_feminino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produz"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Óvulo"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Ovulação"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Parâmetro_fisiológico -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Parâmetro_fisiológico"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pequena_circulação -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pequena_circulação">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Circulação_sanguínea"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#composta_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Coração"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#composta_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pulmão"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#composta_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue_venoso"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Plaquetas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Plaquetas"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Plasma -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Plasma"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Próstata -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Próstata">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pulmão -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pulmão">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#envia"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue_arterial"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Alvéolo"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Trocas_gasosas"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pâncreas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pâncreas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produz"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Suco_pancreático"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pênis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pênis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Reprodução -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Reprodução">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Respiração -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Respiração">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Rim -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Rim">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_urinário"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Saliva -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Saliva">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Líquido"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produzido_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula_salivar"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tecido"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Hemácia"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Leucócito"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Plaquetas"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Plasma"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue_arterial -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue_arterial">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#enviado_para"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Coração"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Grande_circulação"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pequena_circulação"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#sai"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pulmão"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue_venoso -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue_venoso">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#enviado_para"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pulmão"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pequena_circulação"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Circulação_sanguínea"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Digestão"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Reprodução"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_feminino -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_feminino">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Respiração"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Trocas_gasosas"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_urinário -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_urinário">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#responsável_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Micção"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Suco_gástrico -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Suco_gástrico">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Líquido"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produzido_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Estômago"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Suco_pancreático -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Suco_pancreático">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Líquido"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#atua"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Intestino_delgado"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produzido_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pâncreas"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tecido -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tecido"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Testículo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Testículo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#produz"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Espermatozóide"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Traqueia -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Traqueia">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Trocas_gasosas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Trocas_gasosas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Processo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tuba_uterina -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tuba_uterina">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_feminino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo_digestório -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo_digestório">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Conjunto_anatômico"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Boca"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Estômago"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Esôfago"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Faringe"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Intestino_delgado"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Intestino_grosso"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Ânus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Ureter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Ureter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_urinário"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Uretra -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Uretra">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_urinário"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Urina -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Urina">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Líquido"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_urinário"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vagina -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vagina">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_feminino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vasos_sanguíneos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vasos_sanguíneos">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Tubo"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Veias -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Veias">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vasos_sanguíneos"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#conduzem"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sangue_venoso"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_circulatório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#ramificam-se_em"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Capilares"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vesícula_seminal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vesícula_seminal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Glândula"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_masculino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vias_respiratórias -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Vias_respiratórias">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Conjunto_anatômico"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_respiratório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Boca"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Brônquios"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Cavidade_nasal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Faringe"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Laringe"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Nariz"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Pulmão"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#formado_por"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Traqueia"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Ânus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Ânus">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Orifício"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_digestório"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Óvulo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Óvulo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Célula_sexual"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_feminino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Útero -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Útero">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Órgão"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#faz_parte_de"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/arian/ontologies/2026/5/untitled-ontology-28#Sistema_genital_feminino"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <rdf:Description>
+        <termo_preferencial></termo_preferencial>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
